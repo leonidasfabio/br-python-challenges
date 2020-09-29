@@ -1,2 +1,3 @@
 # Desafios com Python
-Nesta pasta estaremos colocando alguns desafios à serem resolvidos com Python. Abra-os no Jupyter notebook ou Google Colab, resolva-os e nos envie para revisão a partir de um pull request para a pasta da turma.
+Desafios com Python realizados durante o curso de Data Science da Awari.
+Boa forma de comprovação de conhecimento da linguagem utilizada por cientistas de dados.
